@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Workshop on Optical Wireless Communications (OWC’24) for 6G
-image: /img/jumbotron.webp
+image: /img/AS-Olso-night-2-scaled.webp
 heading: OWC'24
 subheading: In association with IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore
 mainpitch:

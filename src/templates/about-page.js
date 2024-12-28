@@ -12,7 +12,7 @@ const AboutPageTemplate = ({ title, image, content, contentComponent }) => {
       <div
         className="full-width-image-container margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix('/')}img/jumbotron.webp')`,
+          backgroundImage: `url('${withPrefix('/')}img/christoffer-engstrom-tjguVu0GoEM-unsplash.webp')`,
         }}
       >
         <h2

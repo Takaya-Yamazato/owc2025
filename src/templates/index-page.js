@@ -23,7 +23,8 @@ const IndexPageTemplate = ({
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('${withPrefix('/')}img/jumbotron.webp')`,
+          // backgroundImage: `url('${withPrefix('/')}img/christoffer-engstrom-tjguVu0GoEM-unsplash.webp')`,
+          backgroundImage: `url('${withPrefix('/')}img/AS-Olso-night-2-scaled.webp')`,
         }}
       >
         <div
