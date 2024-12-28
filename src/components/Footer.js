@@ -69,7 +69,7 @@ const Footer = class extends React.Component {
                         rel="noopener noreferrer"
                         title="The 2024 IEEE 99th Vehicular Technology Conference: VTC2024-Spring"
                       >
-                        The 2025 IEEE 101st Vehicular Technology Conference: VTC2025-Spring will be held in Oslo, Norway, 17 - 20 June 2025.
+                        VTC2025-Spring in Oslo
                       </a>
                     </li>
                   </ul>
