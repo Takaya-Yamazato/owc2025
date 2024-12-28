@@ -5,15 +5,13 @@ title: Submission
 image: /img/jumbotron.webp
 ---
 
-[Download Call for Submissions PDF >>](OWC-Workshop-CFP_VTC2024-Spring.pdf)
-
 ### IMPORTANT DATES
 
 |                          |                                                 |
 | ------------------------ | ----------------------------------------------- |
-| Submission Deadline:     | January 29, 2024 (EXTENDED)|
-| Acceptance Notification: | February 15, 2024                                   |
-| Camera Ready:            | March 8, 2024                             |
+| Submission Deadline:     | 27 February 2024 as from VTC 2025-Spring website|
+| Acceptance Notification: | TBD (Not yet mentioned on VTC 2025-Spring website)|
+| Camera Ready:            | TBD (Not yet mentioned on VTC 2025-Spring website) |
 
 ### SUBMISSION GUIDELINES
 

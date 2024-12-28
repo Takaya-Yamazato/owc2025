@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from '../../static/img/logo.svg'
 // import facebook from "../img/social/facebook.svg";
 // import instagram from '../img/social/instagram.svg'
 // import twitter from "../img/social/twitter.svg";
@@ -64,13 +64,12 @@ const Footer = class extends React.Component {
                     <li>
                       <a
                         className="navbar-item"
-                        href="https://events.vtsociety.org/vtc2024-spring/"
+                        href="https://events.vtsociety.org/vtc2025-spring/"
                         target="_blank"
                         rel="noopener noreferrer"
                         title="The 2024 IEEE 99th Vehicular Technology Conference: VTC2024-Spring"
                       >
-                        The 2024 IEEE 99th Vehicular Technology Conference:
-                        VTC2024-Spring
+                        The 2025 IEEE 101st Vehicular Technology Conference: VTC2025-Spring will be held in Oslo, Norway, 17 - 20 June 2025.
                       </a>
                     </li>
                   </ul>
@@ -78,7 +77,7 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-4 social">
                 <a
-                  className="navbar-item"
+                  className="navbar-item has-text-grey-darker"
                   href="https://yamazato.nuee.nagoya-u.ac.jp/en/"
                   target="_blank"
                   rel="noopener noreferrer"

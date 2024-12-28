@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+import github from '../../static/img/github-icon.svg'
+import logo from '../../static/img/logo.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -68,9 +68,9 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/committee/">
                 Committee
               </Link>
-              <Link className="navbar-item" to="/keynotes/">
+              {/* <Link className="navbar-item" to="/keynotes/">
                 Keynotes
-              </Link>
+              </Link> */}
               <Link className="navbar-item" to="/submission/">
                 Submission
               </Link>
@@ -84,7 +84,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/Takaya-Yamazato/owc2024"
+                href="https://github.com/Takaya-Yamazato/owc2025"
                 target="_blank"
                 rel="noopener noreferrer"
               >

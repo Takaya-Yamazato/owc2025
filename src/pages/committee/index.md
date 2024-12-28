@@ -11,7 +11,7 @@ intro:
     - image: Chedlia_Ben_Naila.jpg
       chair: Prof. Chedlia Ben Naila
       text: >
-        (S’08–M'20) received the Ph.D. degree from Waseda University, Tokyo, Japan, in 2012. She is currently an Assistant Professor at Nagoya University, Nagoya, Japan. Previously, she was a Junior Lecturer at Iset'Com, Tunisia (2005–2008), and as an Adjunct Lecturer at Waseda University, Japan (2014–2019). She is a member of IEEE and OPTICA. She was the recipient of the 2011 Waseda University Ono Azusa Memorial Academic Award medal, the Best Paper Award of IIEEJ Journal (2012), the 26th Telecom System Technology award from the Japanese Telecommunication Advancement Foundation (TAF) of Japan (2011), and the IEEE ITU-T Kaleidoscope Best Paper award (2011). Her current research interests include optical wireless communications, free-space optics (FSO) systems, optical intelligent reflecting surfaces (IRS), and underwater communications.
+        (IEEE SM’24) received the Ph.D. degree from Waseda University, Tokyo, Japan, in 2012. She is currently an Assistant Professor at Nagoya University, Nagoya, Japan. Previously, she was a Junior Lecturer at Iset’Com, Tunisia (2005–2008), and as an Adjunct Lecturer at Waseda University, Japan (2014–2019). She is a Senior member of IEEE and member of OPTICA (formerly OSA). She was the recipient of the 2011 Waseda University Ono Azusa Memorial Academic Award medal, the Best Paper Award of IIEEJ Journal (2012), the 26th Telecom System Technology Award from the Japanese Telecommunication Advancement Foundation (TAF) of Japan (2011), and the IEEE ITU-T Kaleidoscope Best Paper award (2011). Her current research interests include optical wireless communications (OWC), free-space optics (FSO) systems, optical intelligent reflecting surfaces (IRS), and underwater communications.
     - image: YAMAZATO_Takaya.jpg
       chair: Prof. Takaya Yamazato
       text: >
@@ -19,53 +19,50 @@ intro:
     - image: Abdelmoula_Bekkali.JPG
       chair: Dr. Abdelmoula Bekkali
       text: >
-           (SM’15) received the M.Sc. and Ph.D. degrees from Waseda University, Tokyo, Japan, in 2007 and 2010, respectively. He is currently an R&D Manager with TOYO Electric Corporation, Japan, where he is leading the development of next-generation FSO systems for fixed and mobile platforms. Previously, he was a senior researcher with KDDI Research Inc. (2014–2019), an Adjunct Lecturer with Waseda University (2012–2019), a Research Scientist with Qatar Mobility Innovation Center (QMIC), Qatar (2011–2014), and a Researcher with NTT Labs, Tokyo, Japan (2010–2011). He holds ten granted Japanese patents in the field of optical and wireless communications. He was the recipient of the 2016 KDDI Excellent Research Award, the 2009 Waseda University Ono Azusa Memorial Gold Medal, the 26th Telecom System Technology Award from the Telecommunication Advancement Foundation (TAF) of Japan, and Best Paper Awards of IEICE Transactions (2009 and 2015), IIEEJ Journal (2012), and IEEE WCNC Conference (2014). His research interests include free-space optical communication, optical wireless communication, fiber-wireless systems, B5G/6G optical access networks, and radio-over-fiber (RoF). He was the Optical Networks and Systems Symposium co-chair of the IEEE GLOBECOM 2020.
-    - image: Eduward_Tangdiongga.jpg
-      chair: Prof. Eduward Tangdiongga
+           (IEEE SM’15) received his M.Sc. and Ph.D. degrees from Waseda University in Tokyo, Japan, in 2007 and 2010, respectively. He is currently Research Director with Centre Tecnològic de Telecomunicacions de Catalunya (CTTC). Previously, he was R&D Manager with TOYO Electric Corporation, Japan (2019-2024), Research engineer with KDDI Research Inc. Japan (2014–2019), Adjunct Lecturer with Waseda University, Japan (2012–2019), Research Scientist with Qatar Mobility Innovation Center, Qatar (2011–2014) and Researcher with NTT Labs, Tokyo, Japan (2010–2011). His research achievements portfolio includes both fundamental and applied research work conducted in the industry resulting in award-level accomplishments and the generation of intellectual property (IP), including 14 patents granted in Japan and the US. He received the KDDI Excellent Basic Research Award (2016), the Institute of Electronics, Information and Communication Engineers of Japan (IEICE) Transactions on Electronics Best Paper Award (2016), IEEE Wireless Communications and Networking Conference (WCNC) Best Paper Award (2014), Institute of Image Electronics Engineers of Japan (IIEEJ) Excellent Journal Paper Award (2012), 26th TELECOM System Technology Award (Encouragement), awarded by JAPAN Telecommunications Advancement Foundation (TAF) (2011), 2009 Waseda University Ono Azusa Memorial Academic Award (Medal), 19th Isao Ookawa Memorial Academy Award (2008), ITU-T Young Author Recognition Award (2008) and two top-scored papers in OFC 2021 and ECOC 2024. He is Editor of IEEE Communications Magazine, Optical Communications and Networks Series. He has been an IEEE Senior member since 2015. He served as Optical Networks and Systems (ONS) symposium co-chair of the IEEE Globecom 2020.
+    - image: smile.webp
+      chair: Prof. Mauro Biagi
       text: >
-         received the M.Sc. and Ph.D. degrees from the Eindhoven University of Technology (TU/e), The Netherlands, in 1994 and 2001, respectively. In 1994, he joined COBRA Research Institute, currently named Eindhoven Hendrik Casimir Institute, working on ultrafast optical signal processing using optical fibres with high nonlinearity properties and quantum-well and quantum-dots semiconductor optical amplifiers. From 2001, he participated in various European Union and national research programs targeting optical signal processing for short and medium haul optical links employing photonic integrated circuits. He is currently an associate professor in TU/e working on advanced optical access and local area networks within Electro-Optical Communication System group. His research interests include passive optical networks, radio over (single mode, multimode, and plastic) fiber combined with smart antenna systems, and free-space optics/optical wireless communication.
+         TBA
 ---
 
 ### List of TPC Members (tentative)
 
-- Alouini Mohamed-Slim	(King Abdullah University of Science and Technology, Saudia Arabia)
-- Alves, Luis Nero	(University of Aveiro, Portugal)
-- Arai, Shintaro (Okayama University of Science, Japan)
-- Ata, Yalçın (OSTIM Technical University, Turkey)
-- Belmonte, Aniceto	(Technical University of Catalonia, BarcelonaTech, Spain)
-- Biagi, Mauro	(Sapienza University of Rome, Italy)
-- Brandt-Pearce, Maite	(University of Virginia, USA)
-- Chujo, Wataru	(Meijo University, Japan)
-- Catalan, Marisa (i2CAT, Spain) 
-- Djordjevic, Ivan	(University of Arizona, USA)
+- Alouini Mohamed-Slim (King Abdullah University of Science and Technology, Saudia Arabia)
+- Alves, Luis Nero (University of Aveiro, Portugal)
+- Alves, Joao (CMRE NATO, Italy)
+- Belmonte, Aniceto (Technical University of Catalonia, BarcelonaTech, Spain)
+- Brandt-Pearce, Maite (University of Virginia, USA)
+- Chujo, Wataru (Meijo University, Japan)
+- Cvijetic, Neda (NEC Laboratories America Inc., USA)
+- Djordjevic, Ivan (University of Arizona, USA)
 - Elmirghani, Jaafar (Kings College London, UK)
-- Green, Roger	(University of Warwick, UK)
-- Giustiniano, Domenico	(IMDEA, Spain)
-- Haas, Harald	(University of Strathclyde, UK)
-- Habuchi, Hiromasa	(Ibaraki University, Japan)
-- Hranilovic, Steve	(McMaster University, Canada)
-- Jing Li, Tiffany	(Lehigh University, USA)
-- Kamakura, Koji	(Chiba Institute of Technology, Japan)
-- Kamalakis, Thomas	(University of Athens, Greece)
-- Karagiannidis, George	Aristotle (University of Thessaloniki, Greece)
-- Khalighi, Mohammad-Ali	(Ecole Centrale Marseille, France)
-- Kinoshita, Masayuki	(Chiba Institute of Technology, Japan)
-- Koomson, Valencia 	(Tufts University, USA)
-- Lampe, Lutz	(University of British Columbia, Canada)
-- Langer, Klaus-Dieter	(Heinrich Hertz Institute, Fraunhofer, Germany)
-- Leitgeb, Erich	(Graz University of Technology, Austria)
-- Little, Thomas	(Boston University, USA)
-- Lopez-Hernandez, Francisco	(Universidad Politecnica de Madrid, Spain)
-- Loscrì, Valeria	(INRIA, France)
-- Monteiro, Paulo (University of Aveiro, Portugal) 
-- Nirmalathas, Ampalavanapillai	(University of Melbourne, Australia)
-- Ooi, Boon S., (King Abdullah University of Science and Technology, Saudia Arabia)
-- Popoola, Wasiu	(University of Edinburgh, UK)
-- Sadler, Brian	(Army Research Laboratory, USA)
-- Suraweera, Himal	(University of Peradeniya, Sri Lanka)
-- Uysal, Murat	(New York University Abu Dhabi, UAE)
-- Vegni, Anna Maria	(Roma Tre University, Italy)
-- Walewski, Joachim. W.	(Siemens, Germany)
-- Xu, Zhengyuan	(Tsinghua University, China)
-- Yendo, Tomohiko	(Nagaoka University of Technology, Japan)
-- Yu, Changyuan	(National University of Singapore, Singapore)
+- Ghassemlooy, Fary (Northumbria University, UK)
+- Green, Roger (University of Warwick, UK)
+- Giustiniano, Domenico (IMDEA, Spain)
+- Haas, Harald (University of Strathclyde, UK)
+- Habuchi, Hiromasa (Ibaraki University, Japan)
+- Hranilovic, Steve (McMaster University, Canada)
+- Jing Li, Tiffany (Lehigh University, USA)
+- Kamalakis, Thomas (Univ. of Athens, Greece)
+- Kamakura, Koji (Chiba Institute of Technology, Japan)
+- Karagiannidis, George (Aristotle University of Thessaloniki, Greece)
+- Khalighi, Mohammad-Ali (Ecole Centrale Marseille, France)
+- Kinoshita, Masayuki (Chiba Institute of Technology, Japan)
+- Koomson, Valencia  (Tufts University, USA)
+- Lampe, Lutz (University of British Columbia, Canada)
+- Lang, Klaus-Dieter (Heinrich Hertz Institute, Fraunhofer, Germany)
+- Leitgeb, Erich (Graz University of Technology, Austria)
+- Lim, Christina (University of Melbourne, Australia)
+- Little, Thomas (Boston University, USA)
+- Lopez-Hernandez, Francisco (Universidad Politecnica, Madrid, Spain)
+- Loscrì, Valeria (INRIA, France)
+- Nirmalathas, Ampalavanapillai (University of Melbourne, Australia)
+- Popoola, Wasiu (University of Edinburgh, UK)
+- Sadler, Brian (Army Research Laboratory, USA)
+- Suraweera, Himal (University of Peradeniya, Sri Lanka)
+- Uysal, Murat (New York University Abu Dhabi, UAE)
+- Vegni, Anna Maria (Roma Tre University, Italy)
+- Xu, Zhengyuan (Tsinghua University, China)
+- Yendo, Tomohiko (Nagaoka University of Technology, Japan)
+- Yu, Changyuan (National University of Singapore, Singapore

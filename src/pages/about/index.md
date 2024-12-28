@@ -2,12 +2,14 @@
 templateKey: "about-page"
 path: /about
 title: About OWC
-image: /img/jumbotron.webp
+image: /img/oliver-cole-aS3ftVZLrVI-unsplash.webp
 ---
 
 ## VTC Workshop
 
-- **<span style="color: red; ">Workshop on Optical Wireless Communications for 6G (OWC’24)</span>** will be held in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore](https://events.vtsociety.org/vtc2024-spring/).
+- **<span style="color: red; ">Second Workshop on Optical Wireless Communications for 6G (OWC’25)</span>** will be held in association with [The 2025 IEEE 101st Vehicular Technology Conference, VTC2025-Spring in Oslo, Norway, 17 - 20 June 2025.](https://events.vtsociety.org/vtc2025-spring/).
+
+- **[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2024/)** held at Singapore in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore](https://events.vtsociety.org/vtc2024-spring/).
 
 ## ISCC Workshop
 - [First](http://yamazato.nuee.nagoya-u.ac.jp/owc2023/) held at Tunis, Tunisia, on 9 July, 2023, in conjunction with [IEEE ISCC 2023](https://2023.ieee-iscc.org/).
