@@ -1,0 +1,50 @@
+# This is a basic workflow that is manually triggered
+# ワークフロー名の設定
+name: Gatsby build and deploy to a server
+
+# master branch へ push したときにこのワークフローを実行するよう指定
+on:
+  push:
+    branches:
+      - main
+
+# 以下，jobs の定義
+jobs:
+  # 「build」という名前のジョブを定義
+  build:
+    # ubuntu の最新版を指定
+    runs-on: ubuntu-latest
+
+    # 実行する処理やコマンドを指定
+    steps:
+      # レポジトリからの checkout を実行
+      - uses: actions/checkout@v4
+      #      - uses: enriikke/gatsby-gh-pages-action@v2
+      #        with:
+      #          access-token: ${{ secrets.ACCESS_TOKEN }}
+      #          gatsby-args: --prefix-paths
+      # Node のセットアップ
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          # node-version: latest
+          node-version-file: 'package.json'
+      # Node の実行（npm install, npm run build）
+      - name: Build project
+        run: |
+          npm install
+          npm run build
+      # 確認のためのリスト表示　必要なければ削除
+      - name: List output files
+        run: ls -laFG
+      # rsync の設定
+      # https://github.com/marketplace/actions/rsync-deployments-action
+      - name: Rsync deployments
+        uses: burnett01/rsync-deployments@5.2.1
+        with:
+          switches: -avzr --delete
+          path: public/
+          remote_path: ${{ secrets.REMOTE_PATH }}
+          remote_host: ${{ secrets.REMOTE_HOST }}
+          remote_user: ${{ secrets.REMOTE_USER }}
+          remote_key: ${{ secrets.ID_ECDSA_FREEDOM }}
