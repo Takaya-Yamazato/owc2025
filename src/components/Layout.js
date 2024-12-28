@@ -1,5 +1,5 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
+// import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
@@ -11,7 +11,7 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
-      <Helmet>
+      {/* <Helmet> */}
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
@@ -48,7 +48,7 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.webp`}
         />
-      </Helmet>
+      {/* </Helmet> */}
       <Navbar />
       <div>{children}</div>
       <ScrollButton />
