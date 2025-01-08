@@ -23,10 +23,16 @@ intro:
     - image: smile.webp
       chair: Prof. Mauro Biagi
       text: >
-         TBA
+         received the laurea degree in communication engineering and the Ph.D. in information and communication theory in January 2005 from the INFO-COM Department (now DIET) of the University of Rome “Sapienza” where he covers the position of Associate Professor. It is appointed he was visiting assistant professor at the University of British Columbia, Dept. of Elec. & Comp. Engineering in 2010. His research is focused on MIMO systems, Cognitive Radio, Underwater Communications, Smart Grids and Optical Wireless Communications. He is in the PLC Technical Committee ComSoc Group and CyberSecurity Technical Committee ComSoc Group. He was Associate Editor of IEEE Photonics Technology Letters and Guest Editor for (2017) IEEE JSCAC issue on Visible light communication, localization and networking. He is associate editor of IEEE Journal of Lightwave Technology. He was TPC chair of the IEEE conference MoWNET 2014 and co-chair of 5 editions of the workshop on Optical Wireless Communications hosted by ICC from 2015 to 2019 and the chair of the 1st workshop of underwater communication access and networking at ICC 2023 and Chair of the workshop on Optical Wireless Communication and networking at PIMRC 2023. He was chair of the optical networks and systems symposium at Globecom 2021.   
 ---
 
-### List of TPC Members (tentative)
+### List of Technical Programme Committee Co-Chairs
+- Farah Al Sallami, University of Leeds, UK 
+- Tu Dac Ho, Norwegian University of science and technology (NTNU), Norway
+- Hossien Eldeeb, University of Cambridge, UK
+- Diana W. Dawoud, University of Dubai, UAE 
+
+### List of Technical Programme Committee Members
 
 - Alouini Mohamed-Slim (King Abdullah University of Science and Technology, Saudia Arabia)
 - Alves, Luis Nero (University of Aveiro, Portugal)
