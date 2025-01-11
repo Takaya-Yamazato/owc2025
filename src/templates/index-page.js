@@ -38,7 +38,7 @@ const IndexPageTemplate = ({
           }}
         >
           <h2
-            className="has-text-weight-bold is-size-1"
+            className="has-text-weight-bold is-size-2"
             style={{
               boxShadow: '0.5rem 0 0 #134d72, -0.5rem 0 0 #134d72',
               backgroundColor: '#134d72',
@@ -49,7 +49,7 @@ const IndexPageTemplate = ({
             {title}
           </h2>
           <h3
-            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-5-widescreen"
             style={{
               boxShadow: '#134d72 0.5rem 0px 0px, #134d72 -0.5rem 0px 0px',
               backgroundColor: '#134d72',

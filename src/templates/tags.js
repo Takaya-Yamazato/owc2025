@@ -1,5 +1,5 @@
 import React from 'react'
-import { Helmet } from 'react-helmet'
+// import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 
@@ -22,8 +22,9 @@ class TagRoute extends React.Component {
 
     return (
       <Layout>
+        <title>{`${tag} | ${title}`}</title>
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} />
+          {/* <Helmet title={`${tag} | ${title}`} /> */}
           <div className="container content">
             <div className="columns">
               <div

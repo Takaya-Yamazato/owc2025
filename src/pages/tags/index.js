@@ -1,6 +1,6 @@
 import React from 'react'
 import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
+// import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../components/Layout'
 
@@ -13,8 +13,9 @@ const TagsPage = ({
   },
 }) => (
   <Layout>
+    <title>title={`Tags | ${title}`} </title>
     <section className="section">
-      <Helmet title={`Tags | ${title}`} />
+      {/* <Helmet title={`Tags | ${title}`} /> */}
       <div className="container content">
         <div className="columns">
           <div

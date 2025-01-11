@@ -18,3 +18,5 @@ Here are the important deadlines you should be aware of:
 - Workshop paper submission due: 27 February 2025
 - Workshop paper acceptance notification: 20 April 2025
 - Final paper submission: 4 May 2025
+
+For more details, please visit the [submission page](/submission).
