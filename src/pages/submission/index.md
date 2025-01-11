@@ -9,9 +9,18 @@ image: /img/jumbotron.webp
 
 |                          |                                                 |
 | ------------------------ | ----------------------------------------------- |
-| Submission Deadline:     | 27 February 2024 as from VTC 2025-Spring website|
-| Acceptance Notification: | TBD (Not yet mentioned on VTC 2025-Spring website)|
-| Camera Ready:            | TBD (Not yet mentioned on VTC 2025-Spring website) |
+| Submission Deadline:     | 27 February 2025|
+| Acceptance Notification: | 20 April 2025|
+| Final paper submission:  | 4 May 2025|
+
+
+<!-- 
+Workshop paper submission due: 27 February 2025
+A possible extension would be: 13 March 2025 (but only if we need it)
+***Soft or Review deadline: 13 April 2025, please do not miss this one, it effects timelines.
+Workshop paper acceptance notification: 20 April 2025
+Final paper submission: 4 May 2025 
+-->
 
 ### SUBMISSION GUIDELINES
 
