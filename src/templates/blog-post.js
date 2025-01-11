@@ -6,6 +6,13 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
+export const Head = () => (
+  <>
+    <title>News and Announcements | OWC2025</title>
+    <meta name="description" content="Hello World" />
+  </>
+)
+
 const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -71,15 +78,6 @@ const BlogPost = ({ data }) => {
   )
 }
 
-// helmet={
-//   <Helmet titleTemplate="%s | Blog">
-//     <title>{`${post.frontmatter.title}`}</title>
-//     <meta
-//       name="description"
-//       content={`${post.frontmatter.description}`}
-//     />
-//   </Helmet>
-// }
 
 BlogPost.propTypes = {
   data: PropTypes.shape({

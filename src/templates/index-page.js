@@ -6,6 +6,13 @@ import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
+export const Head = () => (
+  <>
+    <title>OWC2025</title>
+    <meta name="description" content="Hello World" />
+  </>
+)
+
 const IndexPageTemplate = ({
   image,
   title,

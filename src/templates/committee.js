@@ -5,6 +5,13 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Content, { HTMLContent } from '../components/Content'
 
+export const Head = () => (
+  <>
+    <title>Committee | OWC2025</title>
+    <meta name="description" content="Hello World" />
+  </>
+)
+
 const CommitteePageTemplate = ({
   image,
   title,

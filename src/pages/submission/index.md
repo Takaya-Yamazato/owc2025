@@ -1,5 +1,5 @@
 ---
-templateKey: "about-page"
+templateKey: "submission"
 path: /submission
 title: Submission
 image: /img/jumbotron.webp

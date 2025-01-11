@@ -6,7 +6,7 @@ import Content, { HTMLContent } from '../components/Content'
 
 export const Head = () => (
   <>
-    <title>About OWC |OWC2025</title>
+    <title>Submission | OWC2025</title>
     <meta name="description" content="Hello World" />
   </>
 )
