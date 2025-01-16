@@ -8,6 +8,12 @@ module.exports = {
   pathPrefix: `/owc2025`,
   plugins: [
     `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2025/`,
+      },
+    },
     'gatsby-plugin-image',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
