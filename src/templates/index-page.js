@@ -6,9 +6,10 @@ import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
-export const Head = () => (
+export const Head = ({description}) => (
   <>
     <title>OWC2025</title>
+    {description}
     <meta name="description" content="Hello World" />
   </>
 )
