@@ -6,8 +6,8 @@ import Content, { HTMLContent } from '../components/Content'
 
 export const Head = () => (
   <>
-    <title>About OWC |OWC2025</title>
-    <meta name="description" content="Hello World" />
+    <title>About|OWC’25</title>
+    <meta name="description" content="2nd IEEE VTC Workshop on Optical Wireless Communications (OWC’25) for 6G" /> 
   </>
 )
 

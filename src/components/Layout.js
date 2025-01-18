@@ -1,5 +1,4 @@
 import React from 'react'
-// import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 import './all.sass'
@@ -11,12 +10,9 @@ const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
     <div>
-      {/* <Helmet> */}
       <html lang="en" />
       <title>{title}</title>
       <meta name="description" content={description} />
-      {/* <title>OWC2025</title>
-      <meta name="description" content="IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G" /> */}
 
       <link
         rel="apple-touch-icon"
@@ -50,7 +46,6 @@ const TemplateWrapper = ({ children }) => {
         property="og:image"
         content={`${withPrefix('/')}img/og-image.webp`}
       />
-      {/* </Helmet> */}
       <Navbar />
       <div>{children}</div>
       <ScrollButton />
