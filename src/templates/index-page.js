@@ -6,11 +6,10 @@ import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
-export const Head = ({description}) => (
+export const Head = () => (
   <>
     <title>OWC2025</title>
-    {description}
-    <meta name="description" content="Hello World" />
+    <meta name="description" content="IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G" />
   </>
 )
 
