@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'OWC2025',
+    title: 'OWC’25',
     description:
-      '2nd Workshop on Optical Wireless Communications for 6G (OWC’25)',
-    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2025`,
+      '2nd IEEE VTC Workshop on Optical Wireless Communications (OWC’25) for 6G',
+    siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2025/`,
   },
   pathPrefix: `/owc2025`,
   plugins: [
@@ -11,7 +11,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2025`,
+        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/owc2025/`,
       },
     },
     'gatsby-plugin-image',

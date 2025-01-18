@@ -15,6 +15,8 @@ const TemplateWrapper = ({ children }) => {
       <html lang="en" />
       <title>{title}</title>
       <meta name="description" content={description} />
+      {/* <title>OWC2025</title>
+      <meta name="description" content="IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G" /> */}
 
       <link
         rel="apple-touch-icon"

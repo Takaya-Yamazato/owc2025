@@ -8,8 +8,8 @@ import Content, { HTMLContent } from '../components/Content'
 
 export const Head = () => (
   <>
-    <title>OWC2025</title>
-    <meta name="description" content="IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G" />
+    <title>OWC'25</title>
+    <meta name="description" content="2nd IEEE VTC Workshop on Optical Wireless Communications (OWC’25) for 6G" /> */}
   </>
 )
 
