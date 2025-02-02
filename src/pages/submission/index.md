@@ -4,6 +4,9 @@ path: /submission
 title: Submission
 image: /img/jumbotron.webp
 ---
+### SUBMISSION
+
+To submit a paper, please visit: https://vtc2025s-rr-wks.trackchair.com/track/2359
 
 ### IMPORTANT DATES
 
@@ -25,9 +28,5 @@ Final paper submission: 4 May 2025
 ### SUBMISSION GUIDELINES
 
 IEEE OWC Workshop accepts only novel, previously unpublished papers in the area of optical wireless communications.
-
-### SUBMISSION
-
-To submit a paper, please visit: https://vtc2025s-rr-wks.trackchair.com/track/2359
 
 ---
