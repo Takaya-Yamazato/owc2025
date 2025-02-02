@@ -28,6 +28,6 @@ IEEE OWC Workshop accepts only novel, previously unpublished papers in the area 
 
 ### SUBMISSION
 
-To submit a paper, please visit: https://vtc2025s-rr-wks.trackchair.com/
+To submit a paper, please visit: https://vtc2025s-rr-wks.trackchair.com/track/2359
 
 ---
