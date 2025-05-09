@@ -7,7 +7,7 @@ image: /img/oliver-cole-aS3ftVZLrVI-unsplash.webp
 
 ## VTC Workshop
 
-- **<span style="color: red; ">Second Workshop on Optical Wireless Communications for 6G (OWC’25)</span>** will be held in association with [The 2025 IEEE 101st Vehicular Technology Conference, VTC2025-Spring in Oslo, Norway, 17 - 20 June 2025.](https://events.vtsociety.org/vtc2025-spring/).
+- **<span style="color: red; ">[W2: 2nd Workshop on Optical Wireless Communications (OWC) for 6G (OWC’25)](https://events.vtsociety.org/vtc2025-spring/conference-sessions/workshops-available/w2-2nd-workshop-on-optical-wireless-communications-owc-for-6g/)</span>** will be held in association with [The 2025 IEEE 101st Vehicular Technology Conference, VTC2025-Spring in Oslo, Norway, 17 - 20 June 2025](https://events.vtsociety.org/vtc2025-spring/).
 
 - **[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2024/)** held at Singapore in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore](https://events.vtsociety.org/vtc2024-spring/).
 
